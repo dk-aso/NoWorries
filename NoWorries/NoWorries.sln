@@ -15,6 +15,7 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		NoWorries\NoWorries\NoWorries.projitems*{34fc6f09-2d24-4971-a2de-e30167f88f7b}*SharedItemsImports = 4
 		NoWorries\NoWorries\NoWorries.projitems*{76011087-252f-4611-bd66-5444b984ec45}*SharedItemsImports = 13
+		NoWorries\NoWorries\NoWorries.projitems*{8c20b297-93fe-45d2-b1eb-9892bdc86bf2}*SharedItemsImports = 4
 		NoWorries\NoWorries\NoWorries.projitems*{bb1dc9af-1512-4580-ba55-7b03f79086d7}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
